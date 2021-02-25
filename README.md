@@ -1,3 +1,5 @@
+The purpose of the app is count most used words in subtitles movies files (.srt)
+
 # most-used-words
 
 ## Project setup
